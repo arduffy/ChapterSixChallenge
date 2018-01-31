@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ChapterSix.iml" filepath="$PROJECT_DIR$/ChapterSix.iml" />
+      <module fileurl="file://C:\CIDM4385\ChapterSixChallenge\ChapterSix.iml" filepath="C:\CIDM4385\ChapterSixChallenge\ChapterSix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChapterSixChallenge.iml" filepath="$PROJECT_DIR$/ChapterSixChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\CIDM4385\ChapterSixChallenge\app\app.iml" filepath="C:\CIDM4385\ChapterSixChallenge\app\app.iml" />
     </modules>
   </component>
 </project>
