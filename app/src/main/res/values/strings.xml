@@ -20,5 +20,6 @@
     <string name="cheat_button">Cheat!</string>
     <string name="judgment_toast">Cheating is wrong.</string>
     <string name="api_level">API Level is\ </string>
+    <string name="too_many_cheats">You have no more cheats left! Please select True or False.</string>
 </resources>
 
